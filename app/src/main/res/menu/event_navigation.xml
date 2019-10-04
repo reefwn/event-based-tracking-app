@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="Info" />
+    <item
+        android:id="@+id/nav_members"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Member" />
+    <item
+        android:id="@+id/nav_locations"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="Places" />
+
+</menu>

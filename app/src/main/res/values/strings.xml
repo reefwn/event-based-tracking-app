@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Event-Based Tracking</string>
+
+    <!-- Shared Preferences -->
+    <string name="sp_user_id">com.example.eventbasedtracking.user_id</string>
+    <string name="sp_user_name">com.example.eventbasedtracking.user_name</string>
+    <string name="sp_user_email">com.example.eventbasedtracking.user_email</string>
+
+    <!-- LOGIN ACTIVITY -->
+    <string name="login_title">Login ...</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="register_button">REGISTER</string>
+    <string name="login_button">LOGIN</string>
+    <string name="ic_user">drawable/ic_user</string>
+
+    <!-- REGISTER ACTIVITY -->
+    <string name="register_title">Registration ...</string>
+    <string name="name_hint">Name</string>
+    <string name="confirm_password_hint">Retype password</string>
+    <string name="title_activity_my_event">MyEventActivity</string>
+
+    <!-- MY EVENTS ACTIVITY -->
+    <string name="upcoming_event_title">Upcoming Events</string>
+    <string name="join_button">JOIN</string>
+    <string name="join_hint">GROUP ID</string>
+
+    <!-- CREATE NEW EVENTS ACTIVITY-->
+    <string name="event_title">New Event</string>
+    <string name="event_name">Event name ...</string>
+    <string name="event_start">From</string>
+    <string name="event_end">To</string>
+    <string name="event_location">Event location ...</string>
+    <string name="submit_button">OK</string>
+
+    <!-- LOCATIONS FRAGMENT -->
+    <string name="dash">-</string>
+
+</resources>
