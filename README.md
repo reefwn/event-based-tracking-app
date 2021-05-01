@@ -1,4 +1,4 @@
-# EventBasedTracking
+# Event-based Tracking Application
 
 This application is part of android application course
 
