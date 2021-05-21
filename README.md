@@ -1,10 +1,8 @@
 # Event-based Tracking Application
 
-This application is part of android application course
+> name MongoDB collection as "application" or edit in mongoAPI file to connect to the right collection
+## Technologies & IDE
 
+<img src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress" height="48" alt="mongodb">
 
-## Drawback
-
-MongoDB is not provided and mongoAPI is not creating any collection at first launched
-
-Please name MongoDB collection as "application" or edit in mongoAPI file to connect to the right collection
+<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" height="48" alt="android_studio">
