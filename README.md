@@ -1,4 +1,4 @@
-# Event-based Tracking Application
+# Event-Based Tracking Application
 
 > name mongoDB collection as "application" or edit mongoAPI file to connect to the right collection
 
